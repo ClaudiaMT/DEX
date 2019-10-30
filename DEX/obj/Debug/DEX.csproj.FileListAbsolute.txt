@@ -1,0 +1,93 @@
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\bin\Debug\DEX.exe.config
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\bin\Debug\DEX.exe
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\bin\Debug\DEX.pdb
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\About.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Add_categorie.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Add_cuvant.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Change_Password.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX_admin.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX_user.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\MainWindow.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Modif_categorie.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Modif_cuvant.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\About.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Add_categorie.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Add_cuvant.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Change_Password.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX_admin.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX_user.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\MainWindow.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Modif_categorie.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\Modif_cuvant.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\App.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX_MarkupCompile.cache
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX.g.resources
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX.Properties.Resources.resources
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX.csproj.GenerateResource.Cache
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX.exe
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX.pdb
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\DEX.csprojResolveAssemblyReference.cache
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\View_Statistici.baml
+d:\Clau\C# Dictionar explicativ\Lucru\DEX\DEX\obj\Debug\View_Statistici.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\bin\Debug\DEX.exe.config
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX.exe
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX.pdb
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\bin\Debug\DEX.exe
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\bin\Debug\DEX.pdb
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX.csprojResolveAssemblyReference.cache
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\About.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Add_categorie.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Add_cuvant.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Change_Password.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX_admin.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX_user.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\MainWindow.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Modif_categorie.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Modif_cuvant.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\View_Statistici.baml
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\About.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Add_categorie.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Add_cuvant.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Change_Password.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX_admin.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX_user.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\MainWindow.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Modif_categorie.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\Modif_cuvant.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\View_Statistici.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\App.g.cs
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX_MarkupCompile.cache
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX.g.resources
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX.Properties.Resources.resources
+d:\Clau\C# Dictionar explicativ\Lucru\de copiat\DEX\DEX\obj\Debug\DEX.csproj.GenerateResource.Cache
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\bin\Debug\DEX.exe.config
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\bin\Debug\DEX.exe
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\bin\Debug\DEX.pdb
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX.csprojResolveAssemblyReference.cache
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\About.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Add_categorie.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Add_cuvant.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Change_Password.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX_admin.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX_user.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\MainWindow.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Modif_categorie.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Modif_cuvant.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\View_Statistici.baml
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\About.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Add_categorie.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Add_cuvant.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Change_Password.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX_admin.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX_user.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\MainWindow.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Modif_categorie.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\Modif_cuvant.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\View_Statistici.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\App.g.cs
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX_MarkupCompile.cache
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX.g.resources
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX.Properties.Resources.resources
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX.csproj.GenerateResource.Cache
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX.exe
+d:\Clau\Unitbv\2\Medii vizuale\Tema2\DEX\DEX\obj\Debug\DEX.pdb

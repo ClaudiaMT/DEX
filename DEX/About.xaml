@@ -1,0 +1,8 @@
+﻿<Window x:Class="DEX.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DEX - About" Height="165" Width="300" MinWidth="300" MinHeight="165" MaxWidth="300" MaxHeight="165" FontSize="14" Icon="dictionar-icon.ico" ResizeMode="NoResize">
+    <Grid>
+        <TextBlock Margin="10,22,10,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="92" FontWeight="Bold" FontSize="14"><Run FontWeight="Normal" Text="Nume student:&#x9;"/><Run Text="Marinache Claudia"/><LineBreak/><Run FontWeight="Normal" Text="Numarul grupei:&#x9;"/><Run Text="10id561"/><LineBreak/><Run FontWeight="Normal" Text="Specializarea:&#x9;"/><Run Text="Informatica"/><LineBreak/><Run/><LineBreak/><Run FontWeight="Normal" Text="12.05.2018"/></TextBlock>
+    </Grid>
+</Window>

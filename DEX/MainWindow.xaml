@@ -1,0 +1,18 @@
+﻿<Window x:Name="DEX_main" x:Class="DEX.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DEX Login" Height="210" Width="320" Icon="dictionar-icon.ico" ResizeMode="NoResize">
+    <Grid>
+        <TextBox x:Name="user_name" HorizontalAlignment="Left" Height="25" Margin="96,21,0,0" VerticalAlignment="Top" Width="189" FontSize="14" Text="verifica conexiunea la SQLSrv"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="27,26,0,0" TextWrapping="Wrap" Text="User name" VerticalAlignment="Top" Width="64" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="27,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" FontWeight="Bold"><Run Text="Password"/><InlineUIContainer>
+        		<Label Content="Label"/>
+        	</InlineUIContainer></TextBlock>
+        <Button x:Name="btn_Login" Content="Log In" HorizontalAlignment="Left" Margin="27,127,0,0" VerticalAlignment="Top" Width="75" ToolTip="Login to DEX" Click="btn_Login_Click"/>
+        <Button x:Name="btn_Signup" Content="Sign up" HorizontalAlignment="Left" Margin="118,127,0,0" VerticalAlignment="Top" Width="75" ToolTip="Create new account" Click="btn_Signup_Click"/>
+        <Button x:Name="btn_Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="210,127,0,0" VerticalAlignment="Top" Width="75" Click="btn_Cancel_Click"/>
+        <PasswordBox HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="PasswdBox" HorizontalAlignment="Left" Height="25" Margin="96,73,0,0" VerticalAlignment="Top" Width="189" VerticalContentAlignment="Center"/>
+        <Label x:Name="label_About" Content="About" HorizontalAlignment="Right" Margin="0,159,1.6,-0.4" VerticalAlignment="Top" Width="44" Height="23" MouseDoubleClick="label_About_MouseDoubleClick" Foreground="Blue"/>
+    </Grid>
+</Window>
